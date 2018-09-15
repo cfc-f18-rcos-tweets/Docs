@@ -4,6 +4,9 @@ Components:
 
 - Twitter Feed Ingest Layer
 - Keyword Analysis 
+- NLP Layer 
+- Disaster Database
+- Logistics Analysis Layer
 
 
 To Do: 
