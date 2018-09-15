@@ -1,5 +1,8 @@
 # CFC F18 RCOS-Tweets 
 
+Overview 
+---
+
 Components:
 
 - Twitter Feed Ingest Layer
@@ -11,7 +14,9 @@ Components:
 - Logistics Analysis Layer
 
 
-To Do: 
+To Do:
+---
+
 1. Use Node-Red to pipe twtiiter data into MongoDB
 2. Pipe MDB to Watson to extract keywords
 3. On keywordl, filter by topics, emotions ,ettc
