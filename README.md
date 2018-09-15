@@ -3,9 +3,11 @@
 Components:
 
 - Twitter Feed Ingest Layer
-- Keyword Analysis 
+- Keyword Analysis Layer
 - NLP Layer 
-- Disaster Database
+- Disaster Databases
+  - 2x staging databases
+  - Main datawarehouse
 - Logistics Analysis Layer
 
 
