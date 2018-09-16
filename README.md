@@ -23,6 +23,9 @@ To Do:
 3. On keyword analysis, filter by topics, emotions ,ettc
 4. Take clean data, using NLP model to then back to 2nd datastore
 5. Send data from 2nd datastore to main Disaster Database
+6. Refine terminology and approach for the disaster relief ranking 
+     - Refer to this paper [World Health Organization](http://www.who.int/water_sanitation_health/hygiene/emergencies/em2002chap2.pdf)
+  
 
 
 Repos:
@@ -30,4 +33,4 @@ Repos:
 
 `/twitter-ingest` - Streams tweets from twitter into MongoDB, analyze with Jupyter Notebook
 
-`
+
